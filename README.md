@@ -1,5 +1,5 @@
 # Kodluyoruzilkrepo
-![github proje SS](https://imgyukle.com/i/nT5Fpv)
+![görsel](görsel.png)
 
 Bu repo Kodluyoruz Front-End Eğiti kapsamında oluşturduğum ilk public repodur. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 # Installation
